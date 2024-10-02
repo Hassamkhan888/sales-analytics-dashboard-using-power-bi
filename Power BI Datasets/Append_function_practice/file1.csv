@@ -1,0 +1,101 @@
+Name,Age,City,Salary,Department
+Person1,45,Houston,84010,IT
+Person2,46,Chicago,118624,IT
+Person3,39,Chicago,100385,Finance
+Person4,34,San Francisco,93512,Sales
+Person5,38,Houston,98603,Finance
+Person6,31,New York,66651,Marketing
+Person7,33,Chicago,86517,Marketing
+Person8,35,New York,117981,IT
+Person9,46,Chicago,109333,Finance
+Person10,24,Houston,102505,Marketing
+Person11,58,Los Angeles,110833,Sales
+Person12,34,Chicago,98681,HR
+Person13,40,Chicago,113500,IT
+Person14,38,San Francisco,45737,Marketing
+Person15,32,San Francisco,52341,Marketing
+Person16,43,Miami,42351,Sales
+Person17,29,Chicago,94270,Finance
+Person18,32,Chicago,54833,Sales
+Person19,41,Los Angeles,82908,Finance
+Person20,25,Houston,95386,Finance
+Person21,57,Chicago,114386,Finance
+Person22,37,Los Angeles,106365,Sales
+Person23,24,Houston,89851,IT
+Person24,56,Houston,113430,Finance
+Person25,45,New York,46189,IT
+Person26,33,New York,76068,IT
+Person27,30,Miami,112809,Sales
+Person28,48,Chicago,83998,HR
+Person29,41,Los Angeles,90537,Finance
+Person30,30,Los Angeles,90845,Sales
+Person31,27,New York,78996,Finance
+Person32,28,Los Angeles,80987,HR
+Person33,22,Los Angeles,43606,Finance
+Person34,37,Los Angeles,111810,HR
+Person35,26,Chicago,107057,IT
+Person36,49,Chicago,104404,Marketing
+Person37,58,Los Angeles,81408,Marketing
+Person38,37,New York,55012,Finance
+Person39,27,Chicago,70421,Marketing
+Person40,57,New York,48695,IT
+Person41,42,Houston,93039,Sales
+Person42,23,Houston,118345,HR
+Person43,24,New York,77339,Marketing
+Person44,22,Chicago,89804,HR
+Person45,39,San Francisco,99559,Sales
+Person46,24,Houston,83852,HR
+Person47,38,Chicago,90357,Finance
+Person48,53,New York,80084,HR
+Person49,24,Los Angeles,44161,IT
+Person50,28,San Francisco,111809,Sales
+Person51,54,Miami,63435,Finance
+Person52,43,Houston,50602,HR
+Person53,29,San Francisco,87694,Finance
+Person54,27,Los Angeles,80867,Finance
+Person55,29,Miami,80440,Marketing
+Person56,44,San Francisco,98274,Finance
+Person57,26,New York,101348,HR
+Person58,34,Miami,96927,Finance
+Person59,23,Miami,71728,Finance
+Person60,21,Houston,106704,Marketing
+Person61,49,Miami,107234,Finance
+Person62,42,Chicago,90656,Finance
+Person63,57,San Francisco,114733,IT
+Person64,41,Houston,53288,IT
+Person65,43,San Francisco,47512,HR
+Person66,25,Houston,90761,HR
+Person67,59,San Francisco,57912,IT
+Person68,47,New York,104688,Marketing
+Person69,57,New York,57536,IT
+Person70,39,San Francisco,102841,HR
+Person71,50,New York,98375,Finance
+Person72,36,New York,115997,Marketing
+Person73,34,Miami,82438,Finance
+Person74,55,San Francisco,65242,Marketing
+Person75,24,Miami,90283,Marketing
+Person76,30,New York,78282,IT
+Person77,54,San Francisco,51381,Sales
+Person78,20,Los Angeles,105305,Finance
+Person79,57,San Francisco,63211,Marketing
+Person80,32,Miami,49266,Marketing
+Person81,55,Miami,58452,Sales
+Person82,48,New York,84296,HR
+Person83,45,Houston,63288,Finance
+Person84,35,Los Angeles,57956,IT
+Person85,25,Chicago,97130,Marketing
+Person86,21,Chicago,62564,HR
+Person87,45,Houston,44221,HR
+Person88,33,Miami,84201,Finance
+Person89,46,Miami,45572,Sales
+Person90,29,Houston,104074,HR
+Person91,37,Chicago,91567,Marketing
+Person92,53,Houston,42213,IT
+Person93,30,San Francisco,92755,HR
+Person94,45,Houston,56719,Finance
+Person95,38,New York,78954,HR
+Person96,48,Houston,57870,HR
+Person97,50,Miami,65107,HR
+Person98,57,Los Angeles,119426,Marketing
+Person99,43,Miami,48775,HR
+Person100,59,San Francisco,40210,IT
